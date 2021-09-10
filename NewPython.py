@@ -1,16 +1,11 @@
 #print('Hello World!')
-
-age = 32
-weight = 97
-qa = True
-
-result = age > 33 or weight > 90
-
-print(result)
-
-if age > 33:
-
-    print('condition_1')
-else:
-
-    print('condition_2')
+#
+# A = list(range(1, 101, 1))
+#
+# B = []
+# for x in A:
+#     if x % 7:
+#         B.append(x)
+#
+# B = (x*2 for x in A if x % 7 == 0)
+# print(B)
